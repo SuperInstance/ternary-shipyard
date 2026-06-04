@@ -1,0 +1,8 @@
+[package]
+name = "ternary-shipyard"
+version = "0.1.0"
+edition = "2021"
+description = "Construction and assembly of complex agent systems from declarative blueprints"
+license = "MIT"
+
+[dependencies]
