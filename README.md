@@ -79,3 +79,11 @@ Part of the SuperInstance ternary fleet. Agents built here are deployed into roo
 ## License
 
 MIT
+
+## See Also
+- **ternary-dockyard** — related
+- **ternary-harbor** — related
+- **ternary-cargo** — related
+- **ternary-rigging** — related
+- **ternary-room** — related
+
